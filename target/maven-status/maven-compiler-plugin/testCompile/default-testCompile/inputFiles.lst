@@ -1,0 +1,9 @@
+/Users/vend/Desktop/qa-tech-test/src/test/java/pageObjects/objects.java
+/Users/vend/Desktop/qa-tech-test/src/test/java/config/ReusableFunctions.java
+/Users/vend/Desktop/qa-tech-test/src/test/java/config/EnvGlobals.java
+/Users/vend/Desktop/qa-tech-test/src/test/java/stepdefinitions/FrontEndTasks.java
+/Users/vend/Desktop/qa-tech-test/src/test/java/config/ConfigProperties.java
+/Users/vend/Desktop/qa-tech-test/src/test/java/config/ApplicationConfigReader.java
+/Users/vend/Desktop/qa-tech-test/src/test/java/config/UrlEndPoints.java
+/Users/vend/Desktop/qa-tech-test/src/test/java/runner/CucumberRunnerTest.java
+/Users/vend/Desktop/qa-tech-test/src/test/java/stepdefinitions/BackendTasks.java
